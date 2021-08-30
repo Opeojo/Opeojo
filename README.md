@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Opeojo
+- 👋 Hi, I’m @opeyemiojo
 - 👀 I’m interested in quantum computing and AI
 - 🌱 I’m currently learning Cloud computing
 - 💞️ I’m looking to collaborate on Quantum Computing
