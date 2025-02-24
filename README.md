@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @opeyemiojo
-- 👀 I’m interested in quantum computing and AI
+- 👀 I’m a Data Scientist, also interested in AI and quantum computing
 - 🌱 I’m currently learning Cloud computing
-- 💞️ I’m looking to collaborate on Quantum Computing
 - 📫 How to reach me 
 
 <!---
